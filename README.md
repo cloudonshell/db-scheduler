@@ -167,7 +167,6 @@ scheduler.schedule(myAdhocTask.instance("1045", new MyTaskData(1001L)), Instant.
 | [InterceptorMain.java](./examples/features/src/main/java/com/github/kagkarlsson/examples/InterceptorMain.java)                                                                 | Using `ExecutionInterceptor` to inject logic before and after execution for all `ExecutionHandler`.                                                                                                                     |
 
 
-
 #### Spring Boot
 
 
